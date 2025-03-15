@@ -34,3 +34,6 @@ An alphanumeric keypad system implemented using the **8051 microcontroller**, fe
 
 ## Code & Simulation  
 Find the complete **C source code** and **Proteus simulation files** in this repository.
+
+## License  
+This project is licensed under the **MIT License**. 
